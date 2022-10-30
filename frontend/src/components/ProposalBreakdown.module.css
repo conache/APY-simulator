@@ -1,0 +1,9 @@
+.breakdownTable td {
+  padding: 2px 20px;
+}
+
+.breakdownTable th {
+  text-align: left;
+  padding: 0px 20px;
+  text-transform: capitalize;
+}

@@ -1,0 +1,17 @@
+.breakdownContainer {
+  margin-top: 20px;
+}
+
+.breakdownContainer > :not(:last-child) {
+  margin-bottom: 20px;
+}
+
+.requestBtn {
+  padding: 10px;
+  border-radius: 4px;
+  border: 0;
+  color: white;
+  background-color: cornflowerblue; 
+
+  cursor: pointer;
+}

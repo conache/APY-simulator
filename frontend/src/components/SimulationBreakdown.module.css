@@ -1,0 +1,26 @@
+.containter {
+  width: fit-content;
+}
+
+.projectedApy {
+  width: fit-content;
+
+  font-weight: 800;
+  color: white;
+  background: #78D693;
+  padding: 10px;
+  border-radius: 4px;
+
+  margin-top: 16px;
+  margin-left: auto;
+}
+
+.breakdownTable td {
+  padding: 2px 20px;
+}
+
+.breakdownTable th {
+  text-align: left;
+  padding: 0px 20px;
+  text-transform: capitalize;
+}

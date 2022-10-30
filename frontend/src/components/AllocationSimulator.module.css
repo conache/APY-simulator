@@ -1,0 +1,12 @@
+.inputTable {
+  margin-bottom: 20px;
+}
+.inputTable td {
+  padding: 2px 20px;
+}
+
+.inputTable th {
+  text-align: left;
+  padding: 0px 20px;
+  text-transform: capitalize;
+}
