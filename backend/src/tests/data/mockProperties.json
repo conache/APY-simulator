@@ -1,0 +1,57 @@
+{
+  "dataLoader": {
+    "totalSupply": 44943761,
+    "boostMultiplier": 2.17,
+    "assetSupply": {
+      "dai": {
+        "amount": 23341320,
+        "allocation": 0.5193
+      },
+      "usdc": {
+        "amount": 20850657,
+        "allocation": 0.4639
+      },
+      "usdt": {
+        "amount": 751785,
+        "allocation": 0.0167
+      }
+    },
+    "apyPerStrategy": {
+      "adai": {
+        "baseAPY": 0.0075,
+        "rewardAPY": 0,
+        "totalAPY": 0.0075
+      },
+      "ausdc": {
+        "baseAPY": 0.0093,
+        "rewardAPY": 0,
+        "totalAPY": 0.0093
+      },
+      "ausdt": {
+        "baseAPY": 0.0276,
+        "rewardAPY": 0,
+        "totalAPY": 0.0276
+      },
+      "cdai": {
+        "baseAPY": 0.0086,
+        "rewardAPY": 0.0077,
+        "totalAPY": 0.0163
+      },
+      "cusdc": {
+        "baseAPY": 0.0082,
+        "rewardAPY": 0.0049,
+        "totalAPY": 0.0131
+      },
+      "cusdt": {
+        "baseAPY": 0.017,
+        "rewardAPY": 0.0019,
+        "totalAPY": 0.0189
+      },
+      "convex3pool": {
+        "baseAPY": 0.0089,
+        "rewardAPY": 0.0084,
+        "totalAPY": 0.0173
+      }
+    }
+  }
+}

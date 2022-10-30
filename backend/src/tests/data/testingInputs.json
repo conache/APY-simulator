@@ -1,0 +1,62 @@
+[
+  {
+    "proposal": {
+      "dai": {
+        "aave": 0,
+        "compound": 0,
+        "convex": 100
+      },
+      "usdc": {
+        "aave": 0,
+        "compound": 0,
+        "convex": 100
+      },
+      "usdt": {
+        "aave": 0,
+        "compound": 20,
+        "convex": 80
+      }
+    },
+    "expectedProjectedAPY": 3.76
+  },
+  {
+    "proposal": {
+      "dai": {
+        "aave": 20,
+        "compound": 10,
+        "convex": 70
+      },
+      "usdc": {
+        "aave": 28,
+        "compound": 2,
+        "convex": 70
+      },
+      "usdt": {
+        "aave": 70,
+        "compound": 20,
+        "convex": 10
+      }
+    },
+    "expectedProjectedAPY": 3.31
+  },
+  {
+    "proposal": {
+      "dai": {
+        "aave": 26,
+        "compound": 25,
+        "convex": 49
+      },
+      "usdc": {
+        "aave": 20,
+        "compound": 20,
+        "convex": 60
+      },
+      "usdt": {
+        "aave": 5,
+        "compound": 15,
+        "convex": 80
+      }
+    },
+    "expectedProjectedAPY": 3.2
+  }
+]

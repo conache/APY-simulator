@@ -1,0 +1,13 @@
+node_modules
+.env
+
+# IDE
+.idea
+.vscode
+
+# Build
+dist
+build
+
+# misc
+.DS_Store
