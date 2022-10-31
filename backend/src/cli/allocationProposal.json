@@ -1,8 +1,8 @@
 {
   "dai": {
     "aave": 0,
-    "compound": 98,
-    "convex": 2
+    "compound": 100,
+    "convex": 0
   },
   "usdc": {
     "aave": 0,

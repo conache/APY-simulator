@@ -39,19 +39,19 @@ export let apyPerStrategy: { [key in Strategy]: StrategyAPYData } = {
     totalAPY: 0,
   },
   cdai: {
-    baseAPY: 0.00859055820691312,
-    rewardAPY: 0.00774358083848115,
-    totalAPY: 0.01633413904539427,
+    baseAPY: 0.0107,
+    rewardAPY: 0.0083,
+    totalAPY: 0.019,
   },
   cusdc: {
-    baseAPY: 0.0082315940231349,
-    rewardAPY: 0.00490967757739069,
-    totalAPY: 0.01314127160052559,
+    baseAPY: 0.0086,
+    rewardAPY: 0.0051,
+    totalAPY: 0.0137,
   },
   cusdt: {
-    baseAPY: 0.0169711055644192,
-    rewardAPY: 0.00188733298448085,
-    totalAPY: 0.01885843854890005,
+    baseAPY: 0.011,
+    rewardAPY: 0.0016,
+    totalAPY: 0.0126,
   },
   convex3pool: {
     baseAPY: 0.0089,
